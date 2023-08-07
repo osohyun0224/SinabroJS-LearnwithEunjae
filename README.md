@@ -1,5 +1,5 @@
 # SinabroJS-LearnwithEunjae 😼
-시나브로 자바스크립트 Learn with Eunjae 강의 저장소 
+시나브로 자바스크립트 Learn with Eunjae 강의 저장소 (인생 첫 개발강의...🤍)
 
 ## 강의 소개
 [Learn with Eunjae](https://learnwitheunjae.dev/)
